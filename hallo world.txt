@@ -22,3 +22,4 @@ ada perubahan kode / file
 	git commit -m "pesan komit lainnya"
 4. push
 	git push -u origin main
+ada_konflik?
