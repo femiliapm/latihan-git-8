@@ -22,6 +22,7 @@ ada perubahan kode / file
 	git commit -m "pesan komit lainnya"
 4. push
 	git push -u origin main
+ada_konflik?
 coba kalimat baru
 
 
@@ -37,7 +38,11 @@ coba kalimat baru
 9. pull request ke main
 10. merge
 11. pull dari main
+<<<<<<< HEAD
+test konflik
+=======
 
 test konflik
 
 
+>>>>>>> main
