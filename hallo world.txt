@@ -36,13 +36,10 @@ coba kalimat baru
 7. commit
 8. push
 9. pull request ke main
-10. merge
+10. merging(testkonf)
 11. pull dari main
-<<<<<<< HEAD
+
+tekonflik
 test konflik
-=======
-
 test konflik
 
-
->>>>>>> main
