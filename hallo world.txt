@@ -22,6 +22,9 @@ ada perubahan kode / file
 	git commit -m "pesan komit lainnya"
 4. push
 	git push -u origin main
+ada_konflik?
+coba kalimat baru
+
 
 1. clone: git clone https://github.com/femiliapm/latihan-git-8.git
 - pindah direktori ke folder cloningannya: cd latihan-git-8
@@ -35,4 +38,8 @@ ada perubahan kode / file
 9. pull request ke main
 10. merging(testkonf)
 11. pull dari main
+
 tekonflik
+test konflik
+test konflik
+
