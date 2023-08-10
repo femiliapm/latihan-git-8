@@ -22,3 +22,16 @@ ada perubahan kode / file
 	git commit -m "pesan komit lainnya"
 4. push
 	git push -u origin main
+
+1. clone: git clone https://github.com/femiliapm/latihan-git-8.git
+- pindah direktori ke folder cloningannya: cd latihan-git-8
+2. buat branch dengan nama panggilan kalian masing: git branch namaBranch
+3. switched ke branch yg udh dibuat: git checkout namaBranch
+4. push: git push -u origin namaBranch
+5. buatkan 1 file txt - file-nama.txt  - isinya, nama dan hobi
+6. add
+7. commit
+8. push
+9. pull request ke main
+10. merge
+11. pull dari main
