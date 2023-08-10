@@ -35,3 +35,4 @@ ada perubahan kode / file
 9. pull request ke main
 10. merge
 11. pull dari main
+12.  tesss
